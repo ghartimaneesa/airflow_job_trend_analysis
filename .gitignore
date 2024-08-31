@@ -1,0 +1,5 @@
+config/
+airflow.cfg
+logs/
+standalone_admin_password.txt
+
